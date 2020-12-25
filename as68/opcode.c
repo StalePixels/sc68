@@ -2415,5 +2415,5 @@ void init_opcodes()
   /* make_fast_table(register_table, register_list); */
 }
 
-fast_table_t * opcode_table[FAST_LETTERS];
+/* fast_table_t * opcode_table[FAST_LETTERS]; */
 /* fast_table_t * register_table[FAST_LETTERS]; */
